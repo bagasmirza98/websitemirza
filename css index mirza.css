@@ -1,0 +1,44 @@
+#wrap{
+    width: 1000px;
+    margin: auto;
+}
+#header{
+    padding-top: 10px;
+    float: left;
+    line-height: 5px;
+    margin-top: 50px;
+}
+#isi{
+    width: 1000px;
+    height: 250px;
+    border: dotted;
+    padding: 50x 10px 50px 10px;
+}
+#menu{
+    width: 1000px;
+    height: 35px;
+    text-align: right;
+    word-spacing: 35px;
+    margin-top: 60px;
+    padding: 100px 0 0 0;
+    color: blue;
+
+}
+#kanan{
+    width: 270px;
+    float: right;
+    padding: 0 10px 0 10px;
+    text-align: justify;
+}
+#kiri{
+    width: 690px;
+    float: left;
+    padding: 0 10px 0 10px;
+    text-align: justify;
+}
+#fotter{
+    text-align: center;
+    clear: both;
+    width: 1000px;
+    height: 35px;
+} 
